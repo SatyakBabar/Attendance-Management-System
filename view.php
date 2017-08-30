@@ -155,7 +155,7 @@ footer{
   </style>
 </head>
 <body background="bg2.jpg">
-  <h1>Report</h1>
+  <h1>REPORT</h1>
   <div>
   <table class="data-table table-hover">
     <thead>
