@@ -1,4 +1,4 @@
-# scaling-octo-succotash
+# Attendance-Management-System
 Contract Labourer attendance system( Web Application).
 
 This is an attendance system which is implemented in an Engineering Industry for the attendance of Contract Labourers. The system stores the information of one day and processes it to give the reports which can be seen/printed in "View" section of the main page.
